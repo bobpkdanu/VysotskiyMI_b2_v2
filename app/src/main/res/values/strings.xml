@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Конвертер единиц информации</string>
+    <string name="logoApp">Логотип приложения</string>
+    <string name="login">Введите логин</string>
+    <string name="password">Введите пароль</string>
+    <string name="begin">Начать</string>
+    <string name="converter">Конвертер единиц измерений</string>
+    <string name="back">Назад</string>
+    <string name="result">Результат конвертации</string>
+    <string name="chislo">Введёное число</string>
+    <string name="selectInfo">Выбор единиц инфромации</string>
+    <string name="input">Введите число</string>
+    <string name="from">Из</string>
+    <string name="byter">Байт</string>
+    <string name="in">В</string>
+    <string name="kilo">Килобайт</string>
+    <string name="vichisl">Вычислить</string>
+</resources>
